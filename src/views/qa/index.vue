@@ -1,14 +1,13 @@
 <template>
-  <div>
-    <router-view/>
-  </div>
+<div class="">qa</div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'QAIndex'
 }
 </script>
 
-<style lang="less">
+<style scoped>
+
 </style>

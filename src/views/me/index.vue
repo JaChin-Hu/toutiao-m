@@ -1,14 +1,13 @@
 <template>
-  <div>
-    <router-view/>
-  </div>
+<div class="container"></div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'MeIndex'
 }
 </script>
 
-<style lang="less">
+<style scoped>
+
 </style>
